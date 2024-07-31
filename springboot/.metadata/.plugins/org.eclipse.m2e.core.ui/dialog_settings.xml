@@ -2,7 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
-			<item value="C:\Users\PAULOULISSES\Desktop\springboot"/>
+			<item value="C:\Users\PAULO\Desktop\springboot"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
